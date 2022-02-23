@@ -2,7 +2,7 @@
     "discord":{
         "_comment":"Second parameter is unused - if switching between multiple channels when testing, the one named 'url' will be used",
         "url":"https://discordapp.com/api/webhooks/945778407952764968/Gb3-oy-VVEf0euNPEiqW0nCbP55AmE_wgb5fez04sQB3yvF8unis0oPL4Hv4V3tBBBnl",
-        "_prod_url":"https://discordapp.com/api/webhooks/x/y"
+        "_prod_url":"https://discordapp.com/api/webhooks/945778407952764968/Gb3-oy-VVEf0euNPEiqW0nCbP55AmE_wgb5fez04sQB3yvF8unis0oPL4Hv4V3tBBBnl"
     },
     "telegram":{
         "_comment":"Channel ID can be obtained by running the script with a dummy value, then picking from the list of available channels",
