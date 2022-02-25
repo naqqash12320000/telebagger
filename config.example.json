@@ -6,11 +6,11 @@
     },
     "telegram":{
         "_comment":"Channel ID can be obtained by running the script with a dummy value, then picking from the list of available channels",
-        "api_id":9647640,
-        "api_hash":"61b89061d385a306fafce071929baa7b",
-        "phone":"+923338901778",
+        "api_id": ,
+        "api_hash":" ",
+        "phone":" ",
         "everyone":true,
-        "channel_id":1554595397,
+        "channel_id": ,
         "loglevel": "DEBUG"
     }
 }
